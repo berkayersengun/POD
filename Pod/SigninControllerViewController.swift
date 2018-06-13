@@ -21,8 +21,6 @@ class SigninControllerViewController: UIViewController, FBSDKLoginButtonDelegate
         
     }
     
-    
-  
     @IBOutlet weak var buttonGoogle: UIButton!
     @IBOutlet weak var buttonFacebook: UIButton!
     @IBOutlet weak var buttonEmail: UIButton!
@@ -48,12 +46,10 @@ class SigninControllerViewController: UIViewController, FBSDKLoginButtonDelegate
         
         
     }
-    
+    //sdfasdfdsfasfds
     override func viewDidLoad() {
         super.viewDidLoad()
-      
-       
-        
+    
         // Do any additional setup after loading the view.
     }
     
@@ -62,10 +58,6 @@ class SigninControllerViewController: UIViewController, FBSDKLoginButtonDelegate
         // Dispose of any resources that can be recreated.
     }
     
-    
-    
-    
-   
     /*
      // MARK: - Navigation
      
