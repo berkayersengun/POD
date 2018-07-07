@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pod/ViewController.swift"
+            timestampString = "551535138.071436"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.ViewController.__deallocating_deinit"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/linkedinLearning/Pod/Pod/ViewController.swift"
+                  timestampString = "550595900.862205"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Pod.ViewController"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/linkedinLearning/Pod/Pod/ViewController.swift"
+                  timestampString = "550595900.865381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Pod.ViewController"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/linkedinLearning/Pod/Pod/ViewController.swift"
+                  timestampString = "550595900.868601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Pod.ViewController&gt;"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/linkedinLearning/Pod/Pod/ViewController.swift"
+                  timestampString = "550595900.871116"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Pod.ViewController&gt;"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/linkedinLearning/Pod/Pod/ViewController.swift"
+                  timestampString = "550595900.87344"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pod/EmailViewController.swift"
+            timestampString = "552658108.2410949"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pod/SigninControllerViewController.swift"
+            timestampString = "551567232.43875"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pod/EmailViewController.swift"
+            timestampString = "552658108.248932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "EmailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.EmailViewController.buttonSignIn.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/exPod1/Pod/Pod/EmailViewController.swift"
+                  timestampString = "551560092.880031"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.EmailViewController.buttonSignIn.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/exPod1/Pod/Pod/EmailViewController.swift"
+                  timestampString = "551560092.882992"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.EmailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Pod.EmailViewController"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/exPod1/Pod/Pod/EmailViewController.swift"
+                  timestampString = "551560092.8902121"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pod.EmailViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Pod.EmailViewController&gt;"
+                  moduleName = "Pod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkayersengun/Google%20Drive/xcode/exPod1/Pod/Pod/EmailViewController.swift"
+                  timestampString = "551560092.894089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
